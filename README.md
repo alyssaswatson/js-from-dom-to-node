@@ -73,5 +73,8 @@ Error: Cannot find module '/home/jmburges/code/labs/index.js'
 
 The key there is "Error: Cannot find module". That just means you are in the wrong folder. Go back and read the earlier paragraph that starts "If you see `code`...". That should help you out. You need to be seeing `js-from-dom-to-node` next to the clock. 
 
+After you type in `nodejs index.js` you get nothing in return and no error message:
+
+Try going to 'file' 'save' or hitting commad 's' on a mac to save the file. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-from-dom-to-node'>From DOM To Node and the IDE</a> on Learn.co and start learning to code for free.</p>
